@@ -17,7 +17,7 @@ class _BottonNavState extends State<BottonNav> {
   final iconList = <IconData>[
     Icons.home,
     Icons.group,
-    Icons.favorite,
+    Icons.schedule,
     Icons.person,
   ];
 
